@@ -29,7 +29,7 @@ DONE-Install and setup (Django)
 	python manage.py makemigrations
 	python manage.py migrate
 	python manage.py createsuperuser
--Install and setup (Vue)
+DONE-Install and setup (Vue)
 	goto projects>
 	npm install -g @vue/cli
 	vue create vdjango_vue(make folder)
@@ -44,7 +44,11 @@ DONE-Install and setup (Django)
 	npm install axios
 	npm install bulma
 	npm run serve
-	-Include Font Awesome-Set up the base template-Create django app and models for products-Create serializer and views for the products-Create simple front page (latest products)
+-Include Font Awesome
+-Set up the base template
+-Create django app and models for products
+-Create serializer and views for the products
+-Create simple front page (latest products)
 -View a product
 	-Create viewset in Django
 	-Create vue page for showing product
