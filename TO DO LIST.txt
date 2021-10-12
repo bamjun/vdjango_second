@@ -46,8 +46,8 @@ DONE-Install and setup (Vue)
 	npm run serve
 DONE-Include Font Awesome(vue)
 DONE-Set up the base template(vue)
--Create django app and models for products
--Create serializer and views for the products
+DONE-Create django app and models for products
+DONE-Create serializer and views for the products
 -Create simple front page (latest products)
 -View a product
 	-Create viewset in Django
