@@ -1,4 +1,4 @@
-DONE-To do list
+------------------------------------To do list
 DONE-Install and setup (Django)
 	python -m venv (Django-만들폴더)
 	>cd scripts
@@ -44,8 +44,8 @@ DONE-Install and setup (Vue)
 	npm install axios
 	npm install bulma
 	npm run serve
-DONE-Include Font Awesome
-DONE-Set up the base template
+DONE-Include Font Awesome(vue)
+DONE-Set up the base template(vue)
 -Create django app and models for products
 -Create serializer and views for the products
 -Create simple front page (latest products)
