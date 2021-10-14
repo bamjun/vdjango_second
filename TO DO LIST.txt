@@ -48,7 +48,7 @@ DONE-Include Font Awesome(vue)
 DONE-Set up the base template(vue)
 DONE-Create django app and models for products
 DONE-Create serializer and views for the products
--Create simple front page (latest products)
+DONE-Create simple front page (latest products)
 -View a product
 	-Create viewset in Django
 	-Create vue page for showing product
