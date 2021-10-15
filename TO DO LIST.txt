@@ -59,7 +59,7 @@ DONE-Make it possible to add to cart
 	DONE-Initialize store in app.vue
 	-Add button to product page
 	-Show a toast message
--Implement a loading bar
+DONE-Implement a loading bar
 -Set document title(All pages)
 -make it possible to view a category
 	-Convert the product to a component
