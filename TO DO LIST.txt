@@ -54,7 +54,7 @@ DONE-View a product
 	-Create vue page for showing product
 	-Add link to detail page
 DONE-Sette opp Vuex / State
--Make it possible to add to cart
+DONE-Make it possible to add to cart
 	DONE-Add functionality to vuex
 	DONE-Initialize store in app.vue
 	-Add button to product page
