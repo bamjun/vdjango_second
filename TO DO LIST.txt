@@ -53,7 +53,7 @@ DONE-View a product
 	-Create viewset in Django
 	-Create vue page for showing product
 	-Add link to detail page
--Sette opp Vuex / State
+DONE-Sette opp Vuex / State
 -Make it possible to add to cart
 	-Add functionality to vuex
 	-Initialize store in app.vue
