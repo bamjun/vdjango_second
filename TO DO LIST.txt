@@ -60,7 +60,7 @@ DONE-Make it possible to add to cart
 	-Add button to product page
 	-Show a toast message
 DONE-Implement a loading bar
--Set document title(All pages)
+DONE-Set document title(All pages)
 -make it possible to view a category
 	-Convert the product to a component
 -Change contents of cart

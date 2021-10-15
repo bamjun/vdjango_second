@@ -48,6 +48,8 @@ export default {
   components: {},
   mounted() {
     this.getLatestProducts();
+
+    document.title = "Home | VDjango";
   },
   methods: {
     async getLatestProducts() {
