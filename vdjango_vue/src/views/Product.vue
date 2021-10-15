@@ -14,7 +14,7 @@
       <div class="column is-3">
         <h2 class="subtitle">Information</h2>
 
-        <p><strong>Price: </strong>${{ droduct.price }}</p>
+        <p><strong>Price: </strong>${{ product.price }}</p>
 
         <div class="field has-addons mt-6">
           <div class="control">
@@ -44,9 +44,18 @@ export default {
     this.getProduct();
   },
   methods: {
-    getProducts() {
+    getProduct() {
       const category_slug = this.$route.params.category_slug;
       const product_slug = this.$route.params.product_slug;
+
+      axios
+        .get(`/api/v1/products/${category_slug}/${product_slug}`)
+        .then((response) => {
+          this.product = response.data;
+        })
+        .catch((error) => {
+          console.log(error);
+        });
     },
   },
 };
