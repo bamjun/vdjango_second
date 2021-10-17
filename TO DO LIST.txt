@@ -70,7 +70,7 @@ DONE-Change contents of cart
 	-Increment/Decrement content
 	-Remove from cart
 DONE-Make it possible to sign up
--Make it possible to log in
+DONE-Make it possible to log in
 -Create a simple my account page
 -Proceed to checkout (Authentication)
 -Create a simple success page
