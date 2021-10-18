@@ -72,7 +72,7 @@ DONE-Change contents of cart
 DONE-Make it possible to sign up
 DONE-Make it possible to log in
 DONE-Create a simple my account page
- 1:56:51-Proceed to checkout (Authentication)
+DONE-Proceed to checkout (Authentication)
 -Create a simple success page
 -Show my orders on the my account page
 	-An order should be a component
